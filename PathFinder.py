@@ -1,3 +1,8 @@
+## Eli Rockenbeck 
+## Proud of the result not the work
+## Too lazy to make the quit button work through all my poorly constructed nesting loops, feel free to do so
+## Thanks for taking time to look at this 
+
 import pygame, random, math, time
 
 WIDTH = 600
